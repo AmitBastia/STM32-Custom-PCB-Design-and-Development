@@ -28,7 +28,7 @@ Fabrication Target: JLCPCB
 # Schematic Design
 
 The schematic was developed in Altium Designer with dedicated circuitry for the STM32F411, MPU6050, USB interface, power supply, SWD programming/debugging, and decoupling.
-
+![image alt](https://github.com/AmitBastia/STM32-Custom-PCB-Design-and-Development/blob/main/PCB_Schematic.png)
 
 
 
